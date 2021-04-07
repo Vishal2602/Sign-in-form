@@ -141,6 +141,10 @@ input:focus {
   color: white;
 }
 
+.social:hover {
+  background: rgba(54, 53, 53, 0.829);
+}
+
 .socicon {
   height: 24px;
 }
